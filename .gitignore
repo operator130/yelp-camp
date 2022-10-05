@@ -1,2 +1,6 @@
 node_modules
 .env
+.DS_Store
+views/.DS_Store
+public/.DS_Store
+uploads/.DS_Store
